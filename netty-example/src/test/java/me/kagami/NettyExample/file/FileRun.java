@@ -3,11 +3,8 @@ package me.kagami.NettyExample.file;
 import org.junit.Test;
 
 import io.netty.example.file.FileServer;
-import io.netty.handler.stream.ChunkedFile;
 /**
  * 这个例子的功能是显示本机上的文件内容
- * @author Tian
- * 
  */
 public class FileRun {
 	@Test

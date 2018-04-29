@@ -68,3 +68,9 @@ netty-example/target/
 netty-example/.settings/
 netty-example/.project
 netty-example/.classpath
+
+
+maven-plugins/target/
+maven-plugins/.settings/
+maven-plugins/.project
+maven-plugins/.classpath
